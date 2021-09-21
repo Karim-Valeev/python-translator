@@ -1,0 +1,43 @@
+attribute data                         --> данные атрибута
+enhanced                               --> повышенная
+rival                                  --> соперник
+overall                                --> общий
+F-Measure                              --> F-мера
+encountered                            --> столкнулся
+relevant                               --> соответствующие
+brokerage                              --> маклерство
+Apricot                                --> Абрикос
+prospectuses                           --> проспекты
+labour-intensive                       --> трудоемкий
+up-to-date                             --> своевременно
+according to                           --> в соответствии с
+relevance                              --> актуальность
+vital                                  --> жизненно важно
+underlining                            --> подчеркивание
+believed probability                   --> предполагаемая вероятность
+feature                                --> характерная черта
+evidence                               --> свидетельство
+exceed expectations                    --> превосходить ожидания
+emerged                                --> появился
+equates                                --> приравнивает
+computational efficiency               --> вычислительная эффективность
+straightforward interpretation         --> прямая интерпретация
+latent                                 --> скрытый
+genuine                                --> подлинный
+findings                               --> Выводы
+feature set size                       --> размер набора функций
+recall                                 --> отзывать
+enormous                               --> громадный
+nodes and synapses                     --> узлы и синапсы
+proposed                               --> предложил
+term frequncy method                   --> термин частотный метод
+sophisticated                          --> сложный
+bread-first                            --> первый хлеб
+accuracies                             --> точность
+automatically updatable rejection list --> автоматически обновляемый список отклонений
+feature-category                       --> категория характеристик
+indexer                                --> индексатор
+stem the content                       --> остановить содержание
+prior to                               --> до
+insignificant                          --> незначительный
+disregarded                            --> игнорируется
